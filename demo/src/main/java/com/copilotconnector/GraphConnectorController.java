@@ -1,9 +1,8 @@
 package com.copilotconnector;
 
-import com.example.graphconnector.service.ConnectionService;
-import com.example.graphconnector.service.LoggingService;
-import com.example.graphconnector.service.BackgroundTaskQueue;
-import com.example.graphconnector.workflow.IngestionWorkflow;
+import com.copilotconnector.createConnection.ConnectionService;
+import com.copilotconnector.setup.LoggingService;
+import com.copilotconnector.load.BackgroundTaskQueue;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;

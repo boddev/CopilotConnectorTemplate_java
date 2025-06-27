@@ -1,7 +1,8 @@
 package com.copilotconnector.createConnection;
 
-import com.example.graphconnector.config.ConnectionConfiguration;
-import com.example.graphconnector.transform.SchemaExample;
+import com.copilotconnector.transform.SchemaExample;
+import com.copilotconnector.setup.GraphService;
+import com.copilotconnector.setup.LoggingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,5 +1,6 @@
 package com.copilotconnector.load;
 
+import com.copilotconnector.setup.LoggingService;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;
 import java.util.concurrent.BlockingQueue;

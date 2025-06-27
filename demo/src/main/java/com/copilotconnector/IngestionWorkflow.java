@@ -1,7 +1,7 @@
 package com.copilotconnector;
 
-import com.example.graphconnector.config.ConnectionConfiguration;
-import com.example.graphconnector.service.GraphService;
+import com.copilotconnector.createConnection.ConnectionConfiguration;
+import com.copilotconnector.setup.GraphService;
 import com.microsoft.graph.models.externalconnectors.ExternalItem;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
