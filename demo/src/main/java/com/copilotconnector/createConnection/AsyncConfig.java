@@ -1,4 +1,4 @@
-package com.example.graphconnector.config;
+package com.copilotconnector.createConnection;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

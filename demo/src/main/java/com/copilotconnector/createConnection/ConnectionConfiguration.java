@@ -1,4 +1,4 @@
-package com.example.graphconnector.config;
+package com.copilotconnector.createConnection;
 
 import com.microsoft.graph.models.externalconnectors.ExternalConnection;
 import com.microsoft.graph.models.externalconnectors.Configuration;

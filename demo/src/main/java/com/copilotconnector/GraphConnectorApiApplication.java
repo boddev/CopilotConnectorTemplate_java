@@ -1,5 +1,4 @@
-/main/java/com/example/graphconnector/GraphConnectorApiApplication.java
-package com.example.graphconnector;
+package com.copilotconnector;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

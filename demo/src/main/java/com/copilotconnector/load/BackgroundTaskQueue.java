@@ -1,4 +1,4 @@
-package com.example.graphconnector.service;
+package com.copilotconnector.load;
 
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;

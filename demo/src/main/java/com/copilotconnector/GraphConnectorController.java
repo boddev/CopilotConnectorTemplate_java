@@ -1,4 +1,4 @@
-package com.example.graphconnector.controller;
+package com.copilotconnector;
 
 import com.example.graphconnector.service.ConnectionService;
 import com.example.graphconnector.service.LoggingService;

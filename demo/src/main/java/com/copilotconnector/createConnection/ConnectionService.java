@@ -1,4 +1,4 @@
-package com.example.graphconnector.service;
+package com.copilotconnector.createConnection;
 
 import com.example.graphconnector.config.ConnectionConfiguration;
 import com.example.graphconnector.transform.SchemaExample;

@@ -1,4 +1,4 @@
-package com.example.graphconnector.service;
+package com.copilotconnector.setup;
 
 import com.azure.identity.ClientSecretCredential;
 import com.azure.identity.ClientSecretCredentialBuilder;

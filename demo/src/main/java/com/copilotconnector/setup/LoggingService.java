@@ -1,4 +1,4 @@
-package com.example.graphconnector.service;
+package com.copilotconnector.setup;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

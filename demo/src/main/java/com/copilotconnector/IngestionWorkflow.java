@@ -1,4 +1,4 @@
-package com.example.graphconnector.workflow;
+package com.copilotconnector;
 
 import com.example.graphconnector.config.ConnectionConfiguration;
 import com.example.graphconnector.service.GraphService;

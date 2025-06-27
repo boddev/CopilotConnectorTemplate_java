@@ -1,4 +1,4 @@
-package com.example.graphconnector.transform;
+package com.copilotconnector.transform;
 
 import com.microsoft.graph.models.externalconnectors.Schema;
 import com.microsoft.graph.models.externalconnectors.Property;
